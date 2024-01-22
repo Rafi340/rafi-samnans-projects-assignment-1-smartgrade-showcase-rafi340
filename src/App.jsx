@@ -2,7 +2,7 @@ import "./App.css";
 import Banner from "./section/Banner";
 import Fotter from "./section/Fotter";
 import StudentList from "./section/StudentList";
-import Nav from "./section/nav";
+import Nav from "./section/Nav";
 
 function App() {
   return (
